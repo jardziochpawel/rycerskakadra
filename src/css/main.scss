@@ -1,0 +1,161 @@
+@import "~bootstrap/scss/bootstrap";
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+    font-family: "Pirata One"!important;
+    font-weight: bold;
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    transition-duration: 1s;
+}
+.dotm-overlay {
+    background: url(http://s14.directupload.net/images/111129/44ga9qid.png);
+    width: 100%;
+    padding: 11.7%; /*height of the image*/
+    position: absolute;
+}
+.navbar-dark .navbar-nav .nav-link{
+    line-height: 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0 5px;
+    font-family: "Pirata One";
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    transition-duration: 1s;
+}
+
+.nav-link {
+    color: #ffffff!important;
+}
+
+.nav-item > a:hover {
+    color: gray!important;
+}
+.rkp-navbar{
+    position: absolute!important;
+    width: 100%;
+    bottom: 0;
+    padding-top: 9.5%!important;
+
+}
+.section-header{
+    font-size: 1.2rem;
+}
+
+@include media-breakpoint-up(sm) {
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 1.2rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .rkp-navbar{
+        position: absolute!important;
+        width: 100%;
+        top: 0;
+        padding-top: 18%!important;
+
+    }
+
+    .section-header{
+        font-size: 1.4rem;
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 2.4rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .rkp-navbar{
+        position: absolute!important;
+        width: 100%;
+        top: 0;
+        padding-top: 18.5%!important;
+
+    }
+    .section-header{
+        font-size: 2.4rem;
+    }
+}
+
+@include media-breakpoint-up(lg) {
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .rkp-navbar{
+        position: absolute!important;
+        width: 100%;
+        top: 0;
+        padding-top: 18%!important;
+
+    }
+    .section-header{
+        font-size: 3rem;
+    }
+}
+
+
+@include media-breakpoint-up(xl) {
+    .navbar-dark .navbar-nav .nav-link {
+        line-height: 70px;
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .rkp-navbar{
+        position: absolute!important;
+        width: 100%;
+        top: 0;
+        padding-top: 18%!important;
+
+    }
+    .section-header{
+        font-size: 3rem;
+    }
+}
+
+.gray-img {
+    /* filter: url(filters.svg#grayscale); Firefox 3.5+ */
+    filter: gray; /* IE5+ */
+    -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+    -webkit-transition: all .4s ease-in-out;
+}
+
+.gray-img:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+    -webkit-transform: scale(1);
+}
+
+.facebook:hover{
+    background: #3b5998;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.youtube:hover{
+    background: 	#c3352e;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
