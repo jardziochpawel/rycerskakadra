@@ -12,7 +12,7 @@ class InfoRKP extends React.Component
                 </div>
                 <div className="row">
                     <div className="col-12 col-sm-12 col-md-3 text-center">
-                        <img src={logoRKP} alt="Rycerska Kadra Polski" style={{width: 100+'%', maxWidth: 260+'px'}} className='gray-img'/>
+                        <img src={logoRKP} alt="Rycerska Kadra Polski" style={{width: 100+'%', maxWidth: 260+'px'}} />
                     </div>
                     <div className="col-12 col-sm-12 col-md-6 text-justify" style={{fontSize: 1.1+'rem'}}>
                         <p>
