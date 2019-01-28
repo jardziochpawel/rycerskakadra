@@ -1,4 +1,6 @@
 import React from 'react';
+import ligaFirst from '../img/liga400.png';
+import ligaSecond from '../img/liga401.png';
 
 class Liga extends React.Component
 {
@@ -15,6 +17,8 @@ class Liga extends React.Component
                             Eliminacje złożone są z 5 turniejów, organizowanych od września do marca, na terenie całej
                             Polski.
                         </span><br/><br/>
+                        <img src={ligaSecond} alt="Liga" style={{width: 100+'%'}}/>
+                        <br/><br/>
                         <span>
                             Na podstawie ligowych spotkań Kapitan Reprezentacji – w latach 2017-2019
                             Sławomir Smolarczyk (von Massow) – powołuje do Kadry zawodników, którzy będą
@@ -36,6 +40,7 @@ class Liga extends React.Component
                                 <li>starcie jest przerywane jeżeli przewaga jednej z drużyn wynosi 3 zawodników do 1.</li>
                             </ul>
                         </span>
+                        <img src={ligaFirst} alt="Liga" style={{width: 100+'%'}}/>
                     </div>
                 </div>
             </div>
