@@ -4,7 +4,7 @@ class Liga extends React.Component
 {
     render(){
         return (
-            <div className="container" style={{fontSize: 1.1+'rem', paddingBottom: 80+'px'}}>
+            <div className="container text-justify" style={{fontSize: 1.1+'rem', paddingBottom: 80+'px'}}>
                 <div className="text-center col-12" style={{ marginBottom: 70+'px'}}>
                     <h1>Tu nas znajdziesz:</h1>
                 </div>
