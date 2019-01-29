@@ -1,6 +1,6 @@
 import React from 'react';
 import backgroundHeader from '../img/top_home.png'
-import topVideo from '../img/top_video.mp4';
+import topVideo from '../img/Sequence 01_2.mp4';
 
 class Header extends React.Component
 {
