@@ -40,7 +40,7 @@ class Footer extends React.Component {
                             Damian Łakomski<br/>
                             prezes Stowarzyszenia<br/>
                             damian.lakomski@rycerskakadra.pl<br/>
-                            kom. 695-052-047<br/>
+                            kom. 602-329-444<br/>
                         </span><br/>
                             <span>
                             Piotr Celej<br/>
