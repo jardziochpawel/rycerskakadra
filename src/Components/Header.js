@@ -18,10 +18,13 @@ class Header extends React.Component
                 <div  style={{position: 'absolute', margin: 0, padding: 0,  paddingTop: 27+'%', fontFamily: "Pirata One", width: 100+'%',backgroundImage: `url(${backgroundHeader})`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', zIndex: 9999}} >
                     <nav className="navbar navbar-expand navbar-dark rkp-navbar">
                         <ul className="navbar-nav m-auto h1">
-                            <li className="nav-item"><a href="#Kadra" className="nav-link">Kadra</a></li>
-                            <li className="nav-item"><a href="#Liga" className="nav-link">Liga</a></li>
-                            <li className="nav-item"><a href="#Oferta" className="nav-link">Oferta</a></li>
-                            <li className="nav-item"><a href="#Media" className="nav-link">Media</a></li>
+                            <li className="nav-item" style={{marginRight: 10+'px'}}><a href="#Kadra" className="nav-link">Kadra</a></li>
+                            <li className="nav-item" style={{color: '#fff', marginRight: 10+'px'}}>|</li>
+                            <li className="nav-item" style={{marginRight: 10+'px'}}><a href="#Liga" className="nav-link">Liga</a></li>
+                            <li className="nav-item" style={{color: '#fff', marginRight: 10+'px'}}>|</li>
+                            <li className="nav-item" style={{marginRight: 10+'px'}}><a href="#Oferta" className="nav-link">Oferta</a></li>
+                            <li className="nav-item" style={{color: '#fff', marginRight: 10+'px'}}>|</li>
+                            <li className="nav-item" style={{marginRight: 10+'px'}}><a href="#Media" className="nav-link">Media</a></li>
                         </ul>
                     </nav>
                 </div>

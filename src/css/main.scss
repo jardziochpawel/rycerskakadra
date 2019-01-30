@@ -23,6 +23,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     -moz-transition-duration: 1s;
     transition-duration: 1s;
 }
+.navbar-dark .navbar-nav{
+    line-height: 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0 5px;
+    font-family: "Pirata One";
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    transition-duration: 1s;
+}
 
 .nav-link {
     color: #ffffff!important;
@@ -44,6 +54,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 
 @include media-breakpoint-up(sm) {
     .navbar-dark .navbar-nav .nav-link {
+        font-size: 1.2rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .navbar-dark .navbar-nav {
         font-size: 1.2rem;
         font-weight: bold;
         font-family: "Pirata One";
@@ -73,6 +91,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
         -moz-transition-duration: 1s;
         transition-duration: 1s;
     }
+    .navbar-dark .navbar-nav {
+        font-size: 2.4rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
     .rkp-navbar{
         position: absolute!important;
         width: 100%;
@@ -87,6 +113,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 
 @include media-breakpoint-up(lg) {
     .navbar-dark .navbar-nav .nav-link {
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .navbar-dark .navbar-nav {
         font-size: 3rem;
         font-weight: bold;
         font-family: "Pirata One";
@@ -109,6 +143,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 
 @include media-breakpoint-up(xl) {
     .navbar-dark .navbar-nav .nav-link {
+        line-height: 70px;
+        font-size: 3rem;
+        font-weight: bold;
+        font-family: "Pirata One";
+        -webkit-transition-duration: 1s;
+        -moz-transition-duration: 1s;
+        transition-duration: 1s;
+    }
+    .navbar-dark .navbar-nav {
         line-height: 70px;
         font-size: 3rem;
         font-weight: bold;
