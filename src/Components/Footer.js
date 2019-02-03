@@ -26,10 +26,6 @@ class Footer extends React.Component {
                             KRS: 0000704904<br/>
                             NIP: 6312676294<br/>
                         </span><br/>
-                            <span>
-                            www.rycerskakadra.pl<br/>
-                            www.facebook.com/rycerskakadra<br/>
-                        </span><br/><br/>
                         </div>
                         <div className="col-12 col-sm-12 col-md-4 text-center" style={{marginTop:  40+'px'}}>
                             <h3>Tak, walczymy naprawdę!</h3><br/>
@@ -37,17 +33,11 @@ class Footer extends React.Component {
                         </div>
                         <div className="col-12 col-sm-12 col-md-4 text-md-right" style={{marginTop:  40+'px'}}>
                         <span>
-                            Damian Łakomski<br/>
-                            prezes Stowarzyszenia<br/>
-                            damian.lakomski@rycerskakadra.pl<br/>
-                            kom. 602-329-444<br/>
+                            <h4>Kontakt</h4>
+                            <a className='text-decoration-none text-white' href="mailto:kontakt@rycerskakadra.pl">kontakt@rycerskakadra.pl</a><br/>
+                            <a className='text-decoration-none text-white' href="tel:602329444">kom. 602-329-444</a><br/>
+
                         </span><br/>
-                            <span>
-                            Piotr Celej<br/>
-                            wiceprezes Stowarzyszenia<br/>
-                            piotr.celej@rycerskakadra.pl<br/>
-                            kom. 693-526-332<br/>
-                        </span>
                         </div>
                     </div>
                 </div>
