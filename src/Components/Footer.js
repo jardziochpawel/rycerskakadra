@@ -36,7 +36,6 @@ class Footer extends React.Component {
                             <h4>Kontakt</h4>
                             <a className='text-decoration-none text-white' href="mailto:kontakt@rycerskakadra.pl">kontakt@rycerskakadra.pl</a><br/>
                             <a className='text-decoration-none text-white' href="tel:602329444">kom. 602-329-444</a><br/>
-
                         </span><br/>
                         </div>
                     </div>
