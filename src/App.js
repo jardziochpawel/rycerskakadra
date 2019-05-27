@@ -7,6 +7,7 @@ import SectionHeader from "./Components/SectionHeader";
 import Liga from "./Sections/Liga";
 import Oferta from "./Sections/Oferta";
 import Media from "./Sections/Media";
+import Podziekowania from "./Sections/Podziekowania";
 
 class App extends Component {
   render() {
@@ -15,6 +16,8 @@ class App extends Component {
         <Header/>
         <div style={{marginTop: 6+'%'}}>
             <InfoRKP/>
+            <SectionHeader title={'Podziękowania'}/>
+            <Podziekowania/>
             <SectionHeader title={'Kadra'}/>
             <Kadra/>
             <SectionHeader title={'Liga'}/>
