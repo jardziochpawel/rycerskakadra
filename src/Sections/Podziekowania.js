@@ -15,8 +15,8 @@ class Podziekowania extends React.Component
                         <span>
                             W imieniu Sztabu Rycerskiej Kadry Polski, wszystkich naszych zawodników oraz osób
                             sympatyzujących z przyświecającą nam ideą propagowania sportowych walk rycerskich, chcemy
-                            złożyć na ręce Pana Bartosza Cichockiego Ambasadora RP na Ukrainie, oraz
-                            Bartosza Musiałowicz dyrektora Instytutu Polskiego w Kijowie, najserdeczniejsze
+                            złożyć na ręce Ambasadora RP na Ukrainie Pana Bartosza Cichockiego, oraz
+                            dyrektora Instytutu Polskiego w Kijowie Pana Bartosza Musiałowicza, najserdeczniejsze
                             podziękowania za udzielone wsparcie.
                         </span>
 
