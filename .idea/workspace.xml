@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec50a96-ce7a-4861-a8a4-d2d0c06fb14e" name="Default" comment="podziękowania">
-      <change afterPath="$PROJECT_DIR$/src/img/instytut.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sections/Podziekowania.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sections/Podziekowania.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -104,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sections/Podziekowania.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="142" selection-start-line="13" selection-start-column="142" selection-end-line="13" selection-end-column="142" />
+            <state relative-caret-position="435">
+              <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -243,7 +241,7 @@
       <workItem from="1552035055459" duration="103000" />
       <workItem from="1558603972108" duration="1811000" />
       <workItem from="1558695686768" duration="916000" />
-      <workItem from="1558955977663" duration="1023000" />
+      <workItem from="1558955977663" duration="1718000" />
     </task>
     <task id="LOCAL-00001" summary="zmiana komend w paclage.json">
       <created>1548675941943</created>
@@ -287,11 +285,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558956512617</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="podziękowania">
+      <created>1558957030696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558957030696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18583000" />
+    <option name="totallyTimeSpent" value="19278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="25" width="1920" height="1010" extended-state="6" />
@@ -501,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sections/Podziekowania.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="142" selection-start-line="13" selection-start-column="142" selection-end-line="13" selection-end-column="142" />
+        <state relative-caret-position="435">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

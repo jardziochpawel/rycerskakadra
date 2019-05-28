@@ -13,9 +13,10 @@ class Podziekowania extends React.Component
                     <div className="col-12 col-sm-12 col-md-12 col-lg-6">
                         <img src={kadra} alt="Kadra Reprezentacji Polski w sportowych walkach rycerskich" style={{width: 100+'%'}}/><br/><br/>
                         <span>
-                            W imieniu Sztabu Rycerskiej Kadry Polski, wszystkich naszych zawodników oraz osób sympatyzujących
-                            z przyświecającą nam ideą propagowania sportowych walk rycerskich, chcemy złożyć na ręce
-                            Pana Bartosza Musiałowicz dyrektora Instytutu Polskiego w Kijowie, najserdeczniejsze
+                            W imieniu Sztabu Rycerskiej Kadry Polski, wszystkich naszych zawodników oraz osób
+                            sympatyzujących z przyświecającą nam ideą propagowania sportowych walk rycerskich, chcemy
+                            złożyć na ręce Pana Bartosza Cichockiego Ambasadora RP na Ukrainie, oraz
+                            Bartosza Musiałowicz dyrektora Instytutu Polskiego w Kijowie, najserdeczniejsze
                             podziękowania za udzielone wsparcie.
                         </span>
 
