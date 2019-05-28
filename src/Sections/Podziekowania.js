@@ -15,7 +15,7 @@ class Podziekowania extends React.Component
                         <span>
                             W imieniu Sztabu Rycerskiej Kadry Polski, wszystkich naszych zawodników oraz osób sympatyzujących
                             z przyświecającą nam ideą propagowania sportowych walk rycerskich, chcemy złożyć na ręce
-                            Pana Bartosza Cichockiego dyrektora Instytutu Polskiego w Kijowie, najserdeczniejsze
+                            Pana Bartosza Musiałowicz dyrektora Instytutu Polskiego w Kijowie, najserdeczniejsze
                             podziękowania za udzielone wsparcie.
                         </span>
 
@@ -25,7 +25,7 @@ class Podziekowania extends React.Component
                             Dzięki tej pomocy oraz wielkiemu zaangażowaniu,
                             świętujemy dziś sukcesy po tegorocznych Mistrzostwach Świata federacji IMCF, które w tym
                             roku odbyły się na Ukrainie. 5 zdobytych medali to chluba dla nas i duma z możliwości
-                            reprezentowania naszej ojczyzny na tak prestiżowym turnieju. Tym bardziej radujemy się,
+                            reprezentowania naszej Ojczyzny na tak prestiżowym turnieju. Tym bardziej radujemy się,
                             że dzięki współpracy z Instytutem Polskim w Kijowie, mieliśmy możliwość wyjazdu i poczucia smaku
                             zwycięstwa. Za okazane wsparcie serdecznie dziękujemy w imieniu naszym oraz kibiców.
                         </span><br/><br/>
