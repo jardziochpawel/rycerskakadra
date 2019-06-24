@@ -12,7 +12,7 @@
     "reactstrap": "^7.1.0"
   },
   "scripts": {
-    "start-dev": "react-scripts start",
+    "start": "react-scripts start",
     "start-prod": "serve -l 3000 -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
