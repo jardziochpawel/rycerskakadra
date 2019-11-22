@@ -19,7 +19,7 @@ class Footer extends React.Component {
                             Rycerska Kadra Polski<br/>
                         </span><br/>
                             <span>
-                            ul. Tadeusza Kościuszki 35/1<br/>
+                            ul. Zwycięstwa 1,<br/>
                             44-100 Gliwice<br/>
                         </span><br/>
                             <span>
